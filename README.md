@@ -23,3 +23,5 @@ funcionalidad para exportar un reporte de ventas en Excel.
 En este proyecto investigo sobre el uso de una placa de desarrollo ESP32 para realizar un sistema donde mide la humedad del suelo, temperatura y presion atmosferica
 con sensores conectados a la placa.
 
+## Conectate conmigo
+- [LinkedIn](https://www.linkedin.com/in/andreslagos25/)
