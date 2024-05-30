@@ -19,7 +19,7 @@ En este proyecto hicimos una pagina de cosmeticos, donde exploramos tecnologías
 Proyecto donde implementé una APIRest en Spring, donde se manejan tres usuarios(Administrador, Cajero, Mesero), cada uno con unas funciones especificas. Además posee
 funcionalidad para exportar un reporte de ventas en Excel.
 
-###Proyecto 3: [ProyectoInvernadero](https://github.com/andreslagos25/proyectoInvernadero)
+### Proyecto 3: [ProyectoInvernadero](https://github.com/andreslagos25/proyectoInvernadero)
 En este proyecto investigo sobre el uso de una placa de desarrollo ESP32 para realizar un sistema donde mide la humedad del suelo, temperatura y presion atmosferica
 con sensores conectados a la placa.
 
