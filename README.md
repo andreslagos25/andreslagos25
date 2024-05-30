@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Soy un desarrollador junior interesado en el backend y la ciberseguridad. Actualmente, me dedico a realizar proyectos personales mientras busco una oportunidad de trabajo como desarrollador backend.
+👨‍💻 Soy un desarrollador junior interesado en el backend y la ciberseguridad. Actualmente, me dedico a realizar proyectos personales mientras busco una oportunidad de trabajo como desarrollador backend.
 
 ## Tecnologías
 
@@ -25,3 +25,7 @@ con sensores conectados a la placa.
 
 ## Conectate conmigo
 - [LinkedIn](https://www.linkedin.com/in/andreslagos25/)
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
