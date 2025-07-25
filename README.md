@@ -6,7 +6,7 @@
 
 ## Tecnologías
 
-- 🖥️ **Lenguajes**: Java, JavaScript, SQL
+- 🖥️ **Lenguajes**: Java, JavaScript, SQL, Python
 - 🛠️ **Herramientas**: Git
 - 📚 **Frameworks**: Spring, NodeJS, Express
 
